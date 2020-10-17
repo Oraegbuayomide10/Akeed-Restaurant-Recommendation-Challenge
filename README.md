@@ -4,7 +4,7 @@ This is the 30th place solution to the Akeed Restaurant Recommendation Challenge
 
 The objective of this competition is to build a recommendation engine to predict what restaurants customers are most likely to order from given the customer location, restaurant information, and the customer order history.
 
-Note: This notebook isn't to be run with the data, as some line of codes have been edited and may cause failure of the full codes runnung within the notebook. However, this notebook can be used as a resource in obtaining some revelant techniques in tackling similar tasks. 
+Note: This notebook isn't to be run with the data, as some line of codes have been edited and may cause failure of the full codes running within the notebook. However, this notebook would really be useful as a resource in obtaining very revelant techniques in tackling similar tasks. 
 
 
 # Summary of Approach
