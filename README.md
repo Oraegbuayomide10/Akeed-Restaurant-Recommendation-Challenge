@@ -1,9 +1,9 @@
-# Akeed-Restaurant-Recommendation-Challenge - ZINDI
+# Akeed Restaurant Recommendation Challenge
 
 ![akeed_delivery_image](https://user-images.githubusercontent.com/32022955/165751437-abe0168e-9fe0-49f1-a8f9-a09d08e02313.png)*An image of the Akeed Food Delivery Restaurant/comapny based in Oman*
 
 
-This is the 30th place solution to the Akeed Restaurant Recommendation Challenge on ZINDI. 
+This is the 30th place solution to the [Akeed Restaurant Recommendation Challenge on ZINDI](https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge/leaderboard). 
 
 The objective of this competition is to build a recommendation engine to predict what restaurants customers are most likely to order from given the customer location, restaurant information, and the customer order history.
 
